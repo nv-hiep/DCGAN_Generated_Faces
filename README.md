@@ -1,4 +1,5 @@
-# Anime_with_DCGAN
+# Generate faces with DCGAN
+# Generate Anime with DCGAN
 
 
 - Generating new Anime faces with DCGAN (Deep Convolutional Generative Adversarial Network) using Tensorflow, Keras, Python.
